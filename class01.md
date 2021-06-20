@@ -101,9 +101,9 @@ Furthermore, props data is read-only, which means that data coming from the pare
 
 **Recap**:
 - [x] Props stand for properties and is a special keyword in React
-- [ ] Props are being passed to components like function arguments
-- [ ] Props can only be passed to components in one-way (parent to child)
-- [ ] Props data is immutable (read-only)
+- [x] Props are being passed to components like function arguments
+- [x] Props can only be passed to components in one-way (parent to child)
+- [x] Props data is immutable (read-only)
 
 
 *The informations is from [INTEXT](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)* 
