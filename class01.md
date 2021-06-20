@@ -34,11 +34,11 @@ Num|Type|Def
 3|Process-related view|   instead of creating each component from scratch, the system is building from existing components maintained in a library. (useful whem UI, JIT AND EJB)
 
 
-### UI : A user interface (UI) component includes grids, buttons referred as controls, and utility components expose a specific subset of functions used in other components.
+#### UI : A user interface (UI) component includes grids, buttons referred as controls, and utility components expose a specific subset of functions used in other components.
 
-### JIT: Must be activated using the just-in-time 
+#### JIT: Must be activated using the just-in-time 
 
-### EJB : Many components are invisible which are distributed in enterprise business applications and internet web applications such as Enterprise JavaBean (EJB), .NET components, and CORBA components.
+#### EJB : Many components are invisible which are distributed in enterprise business applications and internet web applications such as Enterprise JavaBean (EJB), .NET components, and CORBA components.
 
 > Characteristics of Components
 * Independent : Components are designed to have minimal dependencies on other components.
