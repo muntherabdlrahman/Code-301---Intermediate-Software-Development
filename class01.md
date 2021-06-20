@@ -26,6 +26,7 @@ Num|Adv
 
 
 ### A component can have three different views 
+
 Num|Type|Def
 -|-|-
 1|Object-oriented view  |    A component is viewed as a set of one or more cooperating classes.(Implementation and analysis)
@@ -83,7 +84,7 @@ Num|Type|Def
  ### React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
  
 
- ### `“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.`
+ `“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.`
 
 ### Using Props in React
 - Firstly, define an attribute and its value(data)
@@ -143,4 +144,4 @@ Furthermore, props data is read-only, which means that data coming from the pare
 ***React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.***
 
 
-### Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
+#### Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
