@@ -80,7 +80,7 @@ Num|Type|Def
 ![Props](https://www.techdiagonal.com/wp-content/uploads/2019/09/react-props-blog-image-design.jpg)
 
 
-> ## What is Props?
+## What is Props?
 
 
  #### React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
