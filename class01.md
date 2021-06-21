@@ -26,6 +26,7 @@ Num|Adv
 
 
 ### A component can have three different views 
+
 Num|Type|Def
 -|-|-
 1|Object-oriented view  |    A component is viewed as a set of one or more cooperating classes.(Implementation and analysis)
@@ -33,11 +34,11 @@ Num|Type|Def
 3|Process-related view|   instead of creating each component from scratch, the system is building from existing components maintained in a library. (useful whem UI, JIT AND EJB)
 
 
-### UI : A user interface (UI) component includes grids, buttons referred as controls, and utility components expose a specific subset of functions used in other components.
+#### UI : A user interface (UI) component includes grids, buttons referred as controls, and utility components expose a specific subset of functions used in other components.
 
-### JIT: Must be activated using the just-in-time 
+#### JIT: Must be activated using the just-in-time 
 
-### EJB : Many components are invisible which are distributed in enterprise business applications and internet web applications such as Enterprise JavaBean (EJB), .NET components, and CORBA components.
+#### EJB : Many components are invisible which are distributed in enterprise business applications and internet web applications such as Enterprise JavaBean (EJB), .NET components, and CORBA components.
 
 > Characteristics of Components
 * Independent : Components are designed to have minimal dependencies on other components.
@@ -79,11 +80,13 @@ Num|Type|Def
 ![Props](https://www.techdiagonal.com/wp-content/uploads/2019/09/react-props-blog-image-design.jpg)
 
 
-> ## What is Props?
- ### React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
+## What is Props?
+
+
+ > React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
  
 
- ### `“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.`
+ `“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.`
 
 ### Using Props in React
 - Firstly, define an attribute and its value(data)
@@ -100,9 +103,9 @@ Furthermore, props data is read-only, which means that data coming from the pare
 
 **Recap**:
 - [x] Props stand for properties and is a special keyword in React
-- [ ] Props are being passed to components like function arguments
-- [ ] Props can only be passed to components in one-way (parent to child)
-- [ ] Props data is immutable (read-only)
+- [x] Props are being passed to components like function arguments
+- [x] Props can only be passed to components in one-way (parent to child)
+- [x] Props data is immutable (read-only)
 
 
 *The informations is from [INTEXT](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)* 
@@ -143,4 +146,4 @@ Furthermore, props data is read-only, which means that data coming from the pare
 ***React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.***
 
 
-### Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
+#### Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
