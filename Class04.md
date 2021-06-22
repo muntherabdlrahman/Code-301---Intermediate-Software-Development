@@ -101,8 +101,9 @@ In React, a <textarea> uses a value attribute instead
   } else {
  console.log(false);
   }
-```````````
+``````````
 #### answer
+```
 //if-else
    if($x===y')
    {
@@ -114,3 +115,4 @@ In React, a <textarea> uses a value attribute instead
       $ console.log(false);
 
    }
+```
