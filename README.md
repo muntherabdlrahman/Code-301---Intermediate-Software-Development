@@ -7,3 +7,4 @@ Num|reading subject|link
 2|class02|[class02](class02.md)
 3|Class03|[Class03](Class03.md)
 4|Class04|[Class04](Class04.md)
+5|Class05|[Class05](Class05.md)
