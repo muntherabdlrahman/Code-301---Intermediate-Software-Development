@@ -10,3 +10,5 @@ Num|reading subject|link
 5|Class05|[Class05](Class05.md)
 6|class06|[class06](class06.md)
 7|class07|[class07](class07.md)
+8|class08|[class08](class08.md)
+9|class09|[class09](class09.md)
