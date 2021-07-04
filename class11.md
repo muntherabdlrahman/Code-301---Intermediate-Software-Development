@@ -3,6 +3,8 @@
 
 ![sccfsfs](https://images.ctfassets.net/cdy7uua7fh8z/5qO4QJH0YW34apsypLXnIk/e27a8cf1469c00d948cc476b11b54300/authz-code-flow.png)
 
+
+
 ***Auth0 uses the OpenID Connect (OIDC) Protocol and OAuth 2.0 Authorization Framework to authenticate users and get their authorization to access protected resources. With Auth0, you can easily support different flows in your own applications and APIs without worrying about OIDC/OAuth 2.0 specifications or other technical aspects of authentication and authorization***.
 
 
