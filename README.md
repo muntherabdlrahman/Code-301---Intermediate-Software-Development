@@ -16,3 +16,5 @@ Num|reading subject|link
 11|class11|[class11](class11.md)
 12|class12|[class12](class12.md)
 13|class13|[class13](class13.md)
+14|class14|[class14](class14.md)
+15|class14-b|[class14-b](class14-b.md)
